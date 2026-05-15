@@ -1,4 +1,4 @@
-# PDF 转 Markdown Skill
+# pdf 转 md 文档 Skill
 
 ## 使用说明
 
