@@ -1,4 +1,4 @@
-# PDF 转 Markdown
+# PDF 转 Markdown Skill
 
 ## 使用说明
 
